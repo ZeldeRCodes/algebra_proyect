@@ -1,0 +1,4 @@
+“Cuando elevamos la matriz de conexiones al cubo, obtenemos información sobre cuántos caminos de longitud 3 existen entre dos dispositivos. Por ejemplo,
+si el valor en la posición (0,2) es 3, significa que hay tres rutas distintas para ir del dispositivo 0 al 2 usando tres saltos. Esto nos indica que la red tiene rutas alternativas,
+es decir, no depende de un único camino. Gracias a eso, la red es más robusta ante fallos,
+porque si un enlace se cae, existen otros caminos disponibles. Y además permite múltiples trayectorias indirectas, lo que mejora la comunicación interna.”
